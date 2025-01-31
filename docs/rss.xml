@@ -1,2 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>肥貓貓的科技博客</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io</link><description>A Journey Beyond Current Limits</description><copyright>肥貓貓的科技博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io</link></image><lastBuildDate>Wed, 29 Jan 2025 10:55:24 +0000</lastBuildDate><managingEditor>肥貓貓的科技博客</managingEditor><ttl>60</ttl><webMaster>肥貓貓的科技博客</webMaster><item><title>Blog 建立測試</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io/post/Blog%20-jian-li-ce-shi.html</link><description>Hello Blog ~。</description><guid isPermaLink="true">https://GMfatcat.github.io/GMfatcat-Blog.github.io/post/Blog%20-jian-li-ce-shi.html</guid><pubDate>Wed, 29 Jan 2025 10:43:34 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>肥貓貓的科技博客</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io</link><description>A Journey Beyond Current Limits</description><copyright>肥貓貓的科技博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io</link></image><lastBuildDate>Fri, 31 Jan 2025 01:17:03 +0000</lastBuildDate><managingEditor>肥貓貓的科技博客</managingEditor><ttl>60</ttl><webMaster>肥貓貓的科技博客</webMaster><item><title>Blog 建立測試</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io/post/Blog%20-jian-li-ce-shi.html</link><description>Hello Blog ~。</description><guid isPermaLink="true">https://GMfatcat.github.io/GMfatcat-Blog.github.io/post/Blog%20-jian-li-ce-shi.html</guid><pubDate>Wed, 29 Jan 2025 10:43:34 +0000</pubDate></item><item><title>About Me</title><link>https://GMfatcat.github.io/GMfatcat-Blog.github.io/about.html</link><description>### 經歷 ###
+
+1. NCKU Geomatics ( Bachelor )
+2. NTU Civil Engineering Surveying and Geospatial ( Master )
+3. ROC Research and Development Substitute Services ( RDSS )
+4. Largan Precision Co.,Ltd. ( RD Engineer )
+### BLOG發什麼 ###
+
+1. 科技雜談 ( Anything about Tech )
+2. 技術心得 ( Anything about Code )
+3. 趣聞分享 ( Anything about Fun Facts )
+### 文章主題 ###
+包含但不限於以下🔢 
+
+- AI
+- 後端
+- 容器
+- 下班生活
+
+![Image](https://github.com/user-attachments/assets/a6a030be-b740-4577-b86c-47811e567c44)
+
+**_And gladly would learn , and gladly teach. - Geoffrey Chaucer_**
+**_勵志心靈雞湯翻譯：勤於學習的人才能樂意施教_**
+**_流行語毒雞湯翻譯：我書讀得多，不會騙你_**
+。</description><guid isPermaLink="true">https://GMfatcat.github.io/GMfatcat-Blog.github.io/about.html</guid><pubDate>Fri, 31 Jan 2025 01:14:53 +0000</pubDate></item></channel></rss>
